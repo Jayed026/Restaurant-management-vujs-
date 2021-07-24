@@ -1,0 +1,114 @@
+{
+  "users": [
+    {
+      "name": "bappy",
+      "email": "bappy@gmail.com",
+      "password": "1234",
+      "id": 1
+    },
+    {
+      "name": "jayed",
+      "email": "jayed@gmail.com",
+      "password": "12345",
+      "id": 2
+    },
+    {
+      "name": "sohan",
+      "email": " sohan@gmail.com",
+      "password": "123456",
+      "id": 3
+    },
+    {
+      "name": "sohan",
+      "email": " sohan@gmail.com",
+      "password": "123456",
+      "id": 4
+    },
+    {
+      "name": "rishi",
+      "email": " r@gmail.com",
+      "password": "123455",
+      "id": 5
+    },
+    {
+      "name": "payel Rani",
+      "email": " payel@gmail.com",
+      "password": "123456",
+      "id": 6
+    },
+    {
+      "name": "sopon",
+      "email": " r@gmail.com",
+      "password": "123456",
+      "id": 7
+    },
+    {
+      "name": "saon",
+      "email": " saon@gmail.com",
+      "password": "123456",
+      "id": 8
+    },
+    {
+      "name": "",
+      "email": " ",
+      "password": "",
+      "id": 9
+    },
+    {
+      "name": "sakil",
+      "email": " s@gmail.com",
+      "password": "1234",
+      "id": 10
+    },
+    {
+      "name": "",
+      "email": " ",
+      "password": "",
+      "id": 11
+    },
+    {
+      "name": "",
+      "email": " ",
+      "password": "",
+      "id": 12
+    },
+    {
+      "name": "b",
+      "email": " r@gmail.com",
+      "password": "",
+      "id": 13
+    },
+    {
+      "name": "Tasfik",
+      "email": " t@gmail.com",
+      "password": "0000",
+      "id": 14
+    }
+  ],
+  "restaurant": [
+    {
+      "name": "Mfc",
+      "address": "barisal",
+      "contact": "222",
+      "id": "1"
+    },
+    {
+      "id": "2",
+      "name": "dominoz",
+      "address": "mirpur",
+      "contact": 2345
+    },
+    {
+      "name": "d",
+      "address": "d",
+      "contact": "123",
+      "id": "pE4Dph-"
+    },
+    {
+      "name": "chillox",
+      "address": "demra",
+      "contact": "123",
+      "id": "Cck-0d8"
+    }
+  ]
+}
